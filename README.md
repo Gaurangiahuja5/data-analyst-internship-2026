@@ -7,3 +7,5 @@ This repository contains my work from the Junior Data Analyst Internship
 - [Week 1: Bank Customer Churn Analysis](./week1-bank-churn-analysis) — 
   Explored a 10,000-record bank customer dataset to identify key drivers of 
   customer churn, including geography, age, account activity, and balance.
+  
+ - [Week 2: Creating Financial Forecasts](./week2-financial-forecast) — Built a simple linear trend model to forecast average customer account balance by tenure.
