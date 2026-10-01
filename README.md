@@ -9,3 +9,5 @@ This repository contains my work from the Junior Data Analyst Internship
   customer churn, including geography, age, account activity, and balance.
   
  - [Week 2: Creating Financial Forecasts](./week2-financial-forecast) — Built a simple linear trend model to forecast average customer account balance by tenure.
+
+ - [Week 3: Risk Analysis](./week3-risk-analysis) — Identified and quantified three customer attrition risks, with mitigation strategies for each.
