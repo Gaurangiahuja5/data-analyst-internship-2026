@@ -11,3 +11,5 @@ This repository contains my work from the Junior Data Analyst Internship
  - [Week 2: Creating Financial Forecasts](./week2-financial-forecast) — Built a simple linear trend model to forecast average customer account balance by tenure.
 
  - [Week 3: Risk Analysis](./week3-risk-analysis) — Identified and quantified three customer attrition risks, with mitigation strategies for each.
+
+ - [Week 4: Hypothesis Testing](./week4-hypothesis-testing) — Statistically validated churn drivers (geography and balance) using chi-square and t-tests.' 
