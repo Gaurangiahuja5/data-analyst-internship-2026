@@ -12,4 +12,6 @@ This repository contains my work from the Junior Data Analyst Internship
 
  - [Week 3: Risk Analysis](./week3-risk-analysis) — Identified and quantified three customer attrition risks, with mitigation strategies for each.
 
- - [Week 4: Hypothesis Testing](./week4-hypothesis-testing) — Statistically validated churn drivers (geography and balance) using chi-square and t-tests.' 
+ - [Week 4: Hypothesis Testing](./week4-hypothesis-testing) — Statistically validated churn drivers (geography and balance) using chi-square and t-tests.'
+
+ - [Week 5: Data Visualization](./week5-data-visualization) — Created eight visualizations (pie, histogram, bar, box plot, heatmap, line, stacked bar, overlapping histograms) revealing churn patterns.
